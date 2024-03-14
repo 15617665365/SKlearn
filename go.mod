@@ -1,3 +1,3 @@
-module github.com/xiaofengin/easemob-go
+module github.com/xiaofengin/SKlearn
 
 go 1.21
