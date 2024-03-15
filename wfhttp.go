@@ -1,4 +1,4 @@
-package SKlearn
+package sklearn
 
 func Text() {
 
