@@ -1,6 +1,6 @@
 package SKlearn
 
-func text() {
+func Text() {
 
 	print("1111")
 }
