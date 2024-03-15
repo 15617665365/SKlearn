@@ -1,3 +1,3 @@
-module github.com/xiaofengin/SKlearn
+module github.com/xiaofengin/sklearn
 
 go 1.21
